@@ -1,0 +1,13 @@
+.plan-collection{
+    width: 100%;
+    display: flex;
+}
+.plan-ele{
+    padding-left: 30px;
+}
+/* .nodevice{
+    background-color: white;
+} */
+.hehe{
+    color: purple;
+}

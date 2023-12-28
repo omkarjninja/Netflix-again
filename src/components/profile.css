@@ -1,0 +1,21 @@
+.profile-box{
+    width: 150px;
+        height: 150px;
+        border: 1px solid transparent;
+        border-radius: 100px;
+        transition: 3ms ease-in-out;
+        margin-top: 50px;
+        margin-left: 10px;
+        
+}
+.profile-box-container{
+    display: flex;
+    margin: 0 auto;
+    margin-left: 400px;
+}
+.profile-box img{
+    border-radius: 10px;
+}
+.profile-box img:hover{
+    border: 2px solid white;
+}

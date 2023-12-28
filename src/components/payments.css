@@ -1,0 +1,36 @@
+.payment-para{
+    color: black;
+}
+.hey6{
+    margin-top: 30px;
+    width: 50%;
+    background-color:  #E50914;
+    color: white;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.hey7{
+    margin-top: 30px;
+    width: 50%;
+    background-color: transparent;
+    color: white;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.hey6 a{
+    color: white;
+    text-decoration: none;
+}
+.payment-image{
+    width: 100px;
+    height: 75px;
+}
+.payment-content{
+    width: 30%;
+    display: flex;
+    position: absolute;
+    left:300px;
+    top: 545px;
+}

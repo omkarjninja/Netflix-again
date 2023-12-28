@@ -1,0 +1,71 @@
+contact p{
+    padding-left: 100px;
+    opacity: 0.75;
+    margin-bottom: 50px;
+}
+contact a{
+    text-decoration: underline;
+    color: white;
+    opacity: 0.75;
+}
+.foot ul{
+    display: flex;
+}
+.foot ul li a{
+    text-decoration: underline;
+    color: white;
+    overflow: hidden;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-left: 150px;
+    margin-right: 75px;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-left: 150px;
+    margin-right: 75px;
+}
+.fourth{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+.first li, .second li , .third li , .fourth li{
+    padding-bottom: 30px;
+    display: inline;
+    flex-wrap: nowrap;
+    text-align: left;
+    box-sizing: content-box;
+   text-transform: capitalize;
+}
+.first li a{
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.copy{
+    margin-left: -150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.button{
+    padding-left:100px ; 
+    margin-bottom: 30px;
+}
+.phone-number{
+    margin-top: 50px;
+    margin-left: 40px;
+}

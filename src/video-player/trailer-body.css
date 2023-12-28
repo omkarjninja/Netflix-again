@@ -1,0 +1,81 @@
+.video-content{
+    width: 100%;
+    margin: 0%;
+}
+.vdo{
+    width: 100%;
+    min-height: 100%;
+    background-position: center;
+    overflow-x: hidden
+}
+.titles{
+    position: absolute;
+    top: 200px;
+    left: 70px;
+}
+.des{
+    position: absolute;
+    top: 380px;
+    left: -100px;
+    color: white;
+    text-align: left;
+}
+.btn{
+    position: absolute;
+    width: 8rem;
+    height: 2.5rem;
+    top: 380px;
+    left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.play{
+    top: 500px;
+    left: 50px;
+}
+.info{
+    top: 500px;
+    left: 200px;
+    background-color: rgba(82, 85, 81, 0.75);
+}
+.btn a{
+    text-decoration: none;
+}
+.info a{
+    color: white;
+    font-size: 1rem;
+}
+.play a{
+    color: black;
+    font-size: 1rem;
+}
+.fa{
+    padding-right: 10px;
+    font-size: 1.2rem;
+}
+.audio{
+    position: absolute;
+    top: 500px;
+    left: 1150px;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+.fa2{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: px;
+    margin-top: 3px;
+}
+.bg{
+    background-color: transparent;
+    border-radius: 100px;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid transparent;
+}
+.bottom-head{
+    color: white;
+    margin-left: 50px;
+}

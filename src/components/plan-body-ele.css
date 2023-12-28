@@ -1,0 +1,62 @@
+.plan-container{
+    margin-top: 50px;
+    height: 25rem;
+    width: 30%;
+}
+.plan-container2{
+    margin-top: 50px;
+    height: 25rem;
+    width: 40%;
+    margin-right: 100px;
+}
+.device{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    opacity: 1;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+/* .plan-price2{
+    position: relative;
+    left: 80px;
+}
+.plan-price3{
+    position: relative;
+    left: 80px;
+} */
+.nodevice{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    margin-left: 50px;
+    background-color: white;
+    width: 40%;
+}
+.mobile:hover{
+ opacity: 1;
+}
+.plan-price1 , .plan-price2, .plan-price3 {
+    position: relative;
+    left:80px
+}
+.mobile-plan-price1{
+    position: relative;
+    left:80px;
+    top: 20px;
+}
+.mobile-plan-price2{
+    position: relative;
+    left:80px;
+    top: 20px;
+    margin-bottom: 40px;
+}
+.plans-name{
+    color: black;
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: lowercase;
+    position: relative;
+    top: 60px;
+    left: -10px;
+}

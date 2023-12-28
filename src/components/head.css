@@ -1,0 +1,26 @@
+.reg-body{
+    margin: 0%;
+    background-color: black;
+}
+.reg-text{
+    text-transform: uppercase;
+    color: red;
+    font-size: 3rem;
+    letter-spacing: 5px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.reg-login{
+    color: white;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 75%;
+    margin-top: 20px;
+}
+.reg-head{
+    display: flex;
+}
+hr{
+    margin-top: -20px;
+}

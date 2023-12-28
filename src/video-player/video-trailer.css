@@ -1,0 +1,16 @@
+.trailer-holder{
+    display: flex;
+}
+.trailer-item-holder{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 570px;
+}
+.trailer-item-holder li{
+    margin-left: 40px;
+    list-style: none;
+}
+.trailer-item-holder li a{
+    color: white;
+    text-decoration: none;
+}

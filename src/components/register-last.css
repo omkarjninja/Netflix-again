@@ -1,0 +1,53 @@
+.reg3-main{
+    width: 100%;
+    height: 40rem;
+    background-color: white;
+    margin: 0%;
+    border-radius: 20px;
+} 
+.reg3-console{
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+    font-family: sans-serif;
+    height: 20rem;
+};
+.step3-reg{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 35%;
+ }
+.reg3-check{
+    margin-top: 30px;
+    
+}
+.hey{
+    font-size: 1.1rem;
+}
+.hey2{
+    font-size: 2rem;
+}
+.right-mark{
+
+}
+.hey3{
+    color: black;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+}
+.hey4{
+    margin-left: 15px;
+}
+.hey6{
+    width: 50%;
+    background-color: #E50914;
+    color: white;
+    height: 60px;
+    border-color: transparent;
+    border-radius: 5px;
+}
+.hey6 a{
+    color: white;
+    text-decoration: none;
+}

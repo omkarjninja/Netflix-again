@@ -1,0 +1,72 @@
+ .step2-reg{
+   font-size: 1.2rem;
+   text-align: left;
+}
+.step2-reg-next{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+    text-align: left;
+ }
+.step3-reg{
+    width: 90%;
+    color: black;
+    text-align: left;
+    margin-left: -40%;
+}
+.label-reg{
+    text-align: left;
+    margin-left: -37%;
+    margin-top: 80px;
+}
+.label2-reg{
+    text-align: left;
+    position: relative;
+    left: -150px;
+}
+/* .next a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+} */
+ .email-reg{
+    width: 100%;
+    background: white;
+    color: grey;
+    height: 45px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+}
+ .pwd-reg{
+    width: 100%;
+    background: white;
+    color: grey;
+    height: 45px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+.reg2-main{
+    width: 100%;
+    height: 40rem;
+    background-color: white;
+    margin: 0%;
+    border-radius: 20px;
+}
+.reg2-console{
+    width: 30%;
+    margin: 0px auto;
+    text-align: center;
+    font-family: sans-serif;
+    height: 20rem;
+};
+ .reg2-next{
+    width: 100%;
+    background-color: #E50914;
+    color: white;
+    height: 60px;
+    border-color: transparent;
+    border-radius: 5px;
+} 

@@ -1,0 +1,15 @@
+.neww{
+    top: 20px;
+    display: flex;
+    position: relative;
+    left: 250px;
+}
+.neww2{
+    left: 320px;
+}
+.neww-reg{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    color: black;
+}
